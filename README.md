@@ -6,7 +6,9 @@ https://searchsubredditcomments.herokuapp.com/
 
 ## Development Stack
 Python-Flask is used to retrieve JSON formatted data from reddit API.
-React renders a UI and fetches data from python REST API server when necessary
+
+React renders a UI and fetches data from python REST API server when necessary.
+
 Both servers hosted on Heroku
 
 ## Launch application locally
