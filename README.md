@@ -5,7 +5,7 @@ This application displays the top 20 articles from a given subreddit in a specif
 https://searchsubredditcomments.herokuapp.com/
 
 ## Development Stack
-Python-Flask is used to retrieve JSON formatted data from reddit API
+Python-Flask is used to retrieve JSON formatted data from reddit API.
 React renders a UI and fetches data from python REST API server when necessary
 Both servers hosted on Heroku
 
